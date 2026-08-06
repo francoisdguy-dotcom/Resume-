@@ -1,0 +1,147 @@
+%% Francois D. Guy – Curriculum Vitae
+%% Compile with pdfLaTeX on Overleaf
+
+\documentclass[10pt, a4paper]{article}
+
+\usepackage[top=0.9cm, bottom=0.9cm, left=1.35cm, right=1.35cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{hyperref}
+
+\hypersetup{colorlinks=false, pdfborder={0 0 0}}
+
+% ── Section headings ─────────────────────────────────────────────────────────
+\titleformat{\section}{\normalsize\bfseries\uppercase}{}{0em}{}
+  [\vspace{-5pt}\rule{\linewidth}{0.5pt}]
+\titlespacing{\section}{0pt}{6pt}{2pt}
+
+% ── Bullet lists ─────────────────────────────────────────────────────────────
+\setlist[itemize]{
+  leftmargin=1.3em, label=\textbullet,
+  itemsep=1pt, topsep=1pt, parsep=0pt
+}
+
+% ── Entry macro ───────────────────────────────────────────────────────────────
+\newcommand{\entry}[4]{%
+  \noindent
+  \begin{tabularx}{\linewidth}{@{}X r@{}}
+    \textbf{#1} & {\small\textit{#2}} \\[-2pt]
+    \textit{#3} & {\small #4}
+  \end{tabularx}\vspace{1pt}%
+}
+
+% ── Sub-entry macro (for a second stint at the same employer) ────────────────
+\newcommand{\subentry}[2]{%
+  \noindent
+  \begin{tabularx}{\linewidth}{@{}X r@{}}
+    \textit{#1} & {\small #2}
+  \end{tabularx}\vspace{1pt}%
+}
+
+\pagestyle{empty}
+\parskip=0pt
+\parindent=0pt
+
+% ─────────────────────────────────────────────────────────────────────────────
+\begin{document}
+
+% ── Header ───────────────────────────────────────────────────────────────────
+\begin{center}
+  {\LARGE\bfseries Francois D. Guy}\\[4pt]
+  {\small London, UK\enspace|\enspace
+    \href{mailto:francoisdguy@gmail.com}{francoisdguy@gmail.com}\enspace|\enspace
+    +44 7795 915765\enspace|\enspace
+    \href{https://linkedin.com/in/francoisdguy}{linkedin.com/in/francoisdguy}}
+\end{center}
+
+\vspace{4pt}
+
+% ── Education & Certifications ───────────────────────────────────────────────
+\section{Education \& Certifications}
+
+\entry{London School of Economics and Political Science}{London, United Kingdom}
+  {MSc Real Estate Economics and Finance}{Commencing Sept 2026}
+
+\vspace{4pt}
+\entry{Durham University (St.\ Chad's College)}{Durham, United Kingdom}
+  {BSc Finance (Hons): First Class Honours}{June 2026}
+\begin{itemize}
+  \item \textbf{Dissertation (78\%):} Demand-Pull vs.\ Cost-Push Inflation and the Dynamic Inflation Beta of UK REITs, 2005--2024
+\end{itemize}
+
+\vspace{4pt}
+\noindent\textbf{A.CRE Real Estate Financial Modeling Accelerator} --- case-based training in development underwriting, DCF modelling, and waterfall structures.
+
+% ── Work Experience ──────────────────────────────────────────────────────────
+\section{Work Experience}
+
+\entry{Meridian Financial Group (Private Real Estate Mortgage Fund)}{Providenciales, TCI}
+  {Credit Risk Analyst}{June -- Sept 2025; June 2026 -- Present}
+\begin{itemize}
+  \item Underwrite live loan applications for the fund, sizing debt against collateral, modelling borrower cash flows, and quantifying downside risk to support credit decisions across a \$20m+ mortgage book.
+  \item Build and stress credit analysis models covering borrower financial reviews, collateral assessments, and sensitivity analysis on residential and commercial exposures.
+  \item Executed the commercial workstream on a 34-unit residential development alongside the principal, owning the pricing strategy, absorption assumptions, strata budget, and go-to-market plan.
+  \item Produce market research and feasibility analysis feeding loan approval decisions; maintain full-cycle accounting for affiliated operating companies across hospitality, F\&B, and real estate.
+\end{itemize}
+
+\vspace{4pt}
+\entry{TCI Rent}{Providenciales, TCI}
+  {Co-Founder (non-operational)}{2025 -- 2026}
+\begin{itemize}
+  \item Founded and scaled the Turks and Caicos Islands' largest long-term residential rental platform, building a full-service property management offering between landlords and tenants across Providenciales.
+  \item Structured the end-to-end business model including fee architecture, agent commission frameworks, and landlord agreements; completed company incorporation and property management licensing.
+  \item Handed day-to-day operations to a local management team in 2026; retain a passive founder stake with no operating responsibilities.
+\end{itemize}
+
+\vspace{4pt}
+\entry{Coriats HSMA}{Providenciales, TCI}
+  {Compliance Assistant}{July -- Sept 2024}
+\begin{itemize}
+  \item Managed and validated client portfolio data for 30+ HNW clients, ensuring accuracy and data integrity for reporting.
+  \item Drafted client-ready reports and assisted trust officers delivering portfolio updates on \$100M+ multi-asset real estate and investment holdings.
+  \item Certified in Viewpoint software; completed compliance and cyber security training.
+\end{itemize}
+
+\vspace{4pt}
+\entry{Baker Tilly}{Providenciales, TCI}
+  {Accounting Intern}{June -- July 2022}
+\begin{itemize}
+  \item Assisted audit teams preparing working papers for 3 corporate clients; documented and summarised meeting minutes for senior accountants and client discussions.
+\end{itemize}
+
+% ── Technical Skills ─────────────────────────────────────────────────────────
+\section{Technical Skills}
+
+\begin{multicols}{2}
+\begin{itemize}
+  \item Financial modelling (DCF, IRR, waterfalls)
+  \item Python (Pandas, NumPy for data analysis)
+  \item Advanced Excel, PowerPoint, QuickBooks
+  \item Probability \& Statistics
+  \item Market research \& data handling
+  \item Stata / Econometrics
+\end{itemize}
+\end{multicols}
+
+% ── Leadership & Affiliations ────────────────────────────────────────────────
+\section{Leadership \& Affiliations}
+
+\entry{African-Caribbean Society, Durham University}{Durham, UK}
+  {President}{June 2025 -- June 2026}
+\begin{itemize}
+  \item Led a 12-member committee and 200-student society, organising flagship cultural and professional events and securing sponsorships.
+  \item Generated \pounds30k+ in revenue organising Durham's Multicultural Ball; oversaw financial planning, vendor negotiations, and sponsorship acquisition.
+\end{itemize}
+
+\vspace{4pt}
+\noindent{\small\textbf{Royal Institution of Chartered Surveyors (RICS)} --- Student Member (ID: 0987507), 2025--Present\enspace|\enspace
+\textbf{NAIOP} --- Commercial Real Estate Development Association, Student Member (ID: 965337), 2025--Present\\[2pt]
+\textbf{Durham University Real Estate Finance \& Investment Society} --- Member\enspace|\enspace
+\textbf{Durham University Finance Society} --- Member}
+
+\end{document}
