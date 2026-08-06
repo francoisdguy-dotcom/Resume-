@@ -12,7 +12,7 @@ already Francois's own. Nothing is composed toward a posting.
 one or two alternate phrasings that say the same true thing with different emphasis. Tailoring picks
 the phrasing that matches the posting's vocabulary — it does not write new ones from scratch.
 
-**Status.** Rounds A and B complete. Round C pending.
+**Status.** Rounds A, B and C complete. Open questions below must be cleared before issuing CVs.
 
 ---
 
@@ -299,45 +299,198 @@ The **$100M+** figure refers to **a single portfolio**, not aggregate client ass
 specific than the interview answer, and that gap needs resolving. Lowest-value section in the file;
 normally the first thing cut for space.
 
+### T7 — Corporate structure and licensing
+**Fact.** The company is **TCI Rental Ltd**. The 51/49 split exists because the majority holder has
+Belonger status, which is required for licensing under **Activity 253 Restricted**.
+**Tags.** regulatory, licensing, corporate structure, founder
+**Note.** Useful evidence of navigating a real licensing regime rather than just incorporating a
+company. Describe the *requirement* rather than the co-founder's personal status.
+
+---
+
+## Academic — Durham University, BSc Finance
+
+### A1 — Degree
+**Fact.** BSc Finance, **Class I Honours**, St Chad's College, Durham. Studied 2023–2026. Degree
+awarded **2 July 2026**.
+**Tags.** education
+**Note.** The baseline CV dates this **June 2026**; the interview says awarded 2 July 2026. See
+OQ-9.
+
+### A2 — Module marks
+**Fact.** Marks as given:
+
+| Module | Mark |
+|---|---|
+| Introduction to Financial Economics (Yr 1) | 78 |
+| Financial Valuation | 77 |
+| Security Investment Analysis | 75 |
+| Behavioural Finance | 73 |
+| Computational Quantitative Finance | 72 |
+| Real Estate | 70 |
+| Banking | 68 |
+| Intermediate Financial Economics | 68 |
+| Programming for Finance | 66 |
+| Financial Econometrics 1 | 64 |
+
+**Tags.** academic, quantitative
+**Note for tailoring.** Only the 70+ band is worth surfacing, and only where a posting cares about
+academics. **Financial Valuation (77), Security Investment Analysis (75), and Real Estate (70)** are
+the relevant three for real estate and investment roles. Never present the table wholesale — listing
+a 64 alongside a First actively weakens the degree classification.
+
+**Watch.** Financial Econometrics 1 is his **lowest** mark (64), yet the dissertation is a heavy
+econometrics piece marked 78. If a posting is research- or quant-facing, lead with the dissertation
+mark and method, never the module. Full transcript is on file if a complete list is ever required.
+
+### A3 — Dissertation
+**Fact.** *Demand-Pull vs. Cost-Push Inflation and the Dynamic Inflation Beta of UK REITs,
+2005–2024*. Marked **78%**. Three-stage econometric framework: **SVAR, DCC-MGARCH, and threshold
+regression**. Built in **Stata and Python**, on data sourced through **WRDS**.
+**Tags.** research, econometrics, REITs, real estate, quantitative, inflation
+**Phrasings.**
+- "Dissertation (78%): built a three-stage econometric framework — SVAR, DCC-MGARCH, and threshold
+  regression — to estimate the dynamic inflation beta of UK REITs across 2005–2024."
+- "Modelled UK REIT inflation sensitivity in Stata and Python on WRDS data, separating demand-pull
+  from cost-push regimes."
+
+**Note.** The named methods are the strongest quantitative evidence anywhere in this file, and they
+significantly outrank the Financial Econometrics module mark. The full title is fixed — see
+`immutables.md`.
+
+**Gap. `INTERVIEW RISK`.** The **headline finding is not currently recalled**. A dissertation on a CV
+is an open invitation to "so what did you find?" — and having no answer is worse than not listing it.
+See OQ-10.
+
+---
+
+## Leadership
+
+### L1 — ACS President, Durham University
+**Fact.** President of the African-Caribbean Society. Led a 12-member committee and a 200-student
+society. Ran the ball: **600 attendees**, **£30k ticket revenue**, secured local sponsorship.
+**Tags.** leadership, events, budget, sponsorship, revenue
+**Phrasings.**
+- "Led a 12-member committee and 200-student society; ran Durham's Multicultural Ball to 600
+  attendees and £30k in ticket revenue, securing local sponsorship."
+- "Delivered a 600-person event on a £30k ticket-revenue base, owning financial planning, vendor
+  negotiation, and sponsor acquisition."
+
+**Note.** The interview described it as "the largest ball in Durham University's history". That is an
+unverified superlative — see OQ-11. **600 attendees and £30k are the stronger claims anyway**: they
+are specific, checkable, and impressive without inviting challenge.
+
+### L2 — Lead Mooter, TCI National Moot Competition (2022)
+**Fact.** Lead mooter in the TCI National Moot Competition. Structured argumentation, live
+cross-examination, persuasive presentation under scrutiny.
+**Tags.** advocacy, communication, client-facing, composure
+**Note.** Absent from the baseline CV. Genuinely useful for client-facing, advisory, or
+investment-committee-facing roles where the ability to defend a position matters. Modest space cost —
+one line.
+
+---
+
+## Skills — confirmed proficiency
+
+| Skill | Level | Usable claim |
+|---|---|---|
+| Excel | Advanced | Yes, unqualified |
+| Stata | Advanced | Yes, unqualified |
+| Python | Working knowledge, not expert | Yes, but never "expert" or "proficient" |
+| Bloomberg Terminal | Used at Durham | Only as academic exposure — see note |
+| Next.js / Supabase | **Not rated** | See OQ-12 |
+| Argus / CoStar | **No exposure** | Hard bucket-C gap |
+| Languages | English only | — |
+
+**Bloomberg.** University use only. "Bloomberg Terminal (university)" or "exposure to Bloomberg" is
+honest; an unqualified listing alongside Advanced Excel implies professional use and is not.
+
+**Next.js / Supabase.** T1 establishes he built and shipped a production application in this stack —
+that is a **fact about what he did** and may be stated in a TCI Rent bullet regardless. Whether the
+technologies may join the **Technical Skills list** is a separate question about claimed proficiency,
+and is unresolved.
+
+---
+
+## Certifications and memberships
+
+- RICS **Student Member** — ID 0987507
+- NAIOP **Student Member** — ID 965337 *(interview said "Member"; the baseline CV and
+  `immutables.md` both say Student Member, which is the safer and presumably correct form — OQ-13)*
+- A.CRE Real Estate Financial Modeling Accelerator
+- **No CFA.** Not a candidate, has never sat an exam. Nothing on any CV may imply otherwise.
+
+---
+
+## Status and availability
+
+### S1 — Right to work
+**Fact.** **British citizen**, unrestricted UK right to work. Also holds **US**, **St Vincent and the
+Grenadines**, and **Turks and Caicos Islands** citizenship.
+**Tags.** eligibility, mobility
+**Note.** Removes any sponsorship question for UK roles. **US citizenship is a genuine asset** for
+firms with US operations or US-facing coverage — it means no visa cost and unrestricted US work
+rights, which is a real differentiator for transatlantic employers. Surface where relevant; it is
+otherwise omitted, since UK employers generally assume eligibility from a London address.
+
+### S2 — LSE and availability
+**Fact.** MSc Real Estate Economics and Finance, LSE, starting **September 2026**. **Would defer for
+the right opportunity.**
+**Tags.** availability, positioning
+**Note. `POSITIONING`.** As written, the CV tells an employer he starts a full-time master's within
+weeks — which reads as unavailable for a permanent role, and is likely to get him screened out of
+exactly the jobs he would defer for. The willingness to defer is not a CV line (it belongs in a cover
+note or a conversation), but it materially affects how the education section should be ordered and
+framed. See OQ-14.
+
 ---
 
 ## Open questions
 
-Blocking questions are marked. No tailored CV should be issued while a blocking question is open.
+`BLOCKING` questions must be cleared before any tailored CV is issued.
 
-**OQ-1 — Employer name. `BLOCKING`.** Round A was submitted under the heading **"Meridian Trust"**,
-but the baseline CV reads **"Meridian Financial Group (Private Real Estate Mortgage Fund)"**.
-Employer names are immutable and must be exactly right on every application.
+**OQ-1 — Employer name. `BLOCKING`.** The interview twice reads **"Meridian Trust"**; the baseline CV
+reads **"Meridian Financial Group (Private Real Estate Mortgage Fund)"**. Employer names are
+immutable and must be exactly right.
 
-**OQ-2 — Scope of the pace figure.** Does "roughly one deal per day" describe the current stint, the
-2025 summer stint, or both? Affects whether the figure can be stated unqualified.
+**OQ-2 — Meridian role framing. `BLOCKING`.** Round C describes the role as a **"Summer Placement"**.
+The CV shows **"Credit Risk Analyst"** with dates **"June – Sept 2025; June 2026 – Present"**. If the
+current stint is a summer placement ending shortly, "Present" overstates continuity and the omission
+of placement/internship status may mislead. Confirm the actual title on the contract.
 
-**OQ-3 — Annualised volume.** "~1 deal per day" implies roughly 200–250 opportunities a year. Not
-confirmed; not to be used until it is.
+**OQ-3 — Pace figure scope and annualisation.** Does "roughly one deal per day" cover both stints?
+The implied 200–250 deals a year remains unconfirmed and unusable until it is.
 
-**OQ-4 — "Largest platform" claim. `BLOCKING`.** The baseline CV states TCI Rent was "the Turks and
-Caicos Islands' largest long-term residential rental platform". Round B returned no scale figures —
-no property count, landlord count, rent roll, GMV, or revenue — so nothing in this file substantiates
-"largest". A superlative is the most challengeable line on a CV. Either substantiate it or soften it
-to something defensible.
+**OQ-4 — TCI Rent superlative. `BLOCKING`.** The CV claims the **"largest"** long-term rental
+platform in TCI. Round C confirms **no meaningful scale numbers exist**. Nothing substantiates
+"largest", and "scaled" is equally unsupported. Must be softened.
 
-**OQ-5 — "30+ HNW clients".** The baseline CV claims portfolio data managed for 30+ HNW clients.
-Round B did not confirm this figure.
+**OQ-5 — TCI Rent title. `BLOCKING`.** Round C heads the section **"Co-Founder & Managing
+Director"**; the CV says **"Co-Founder (non-operational)"**, and Rounds B and C both state the
+co-founder ran day-to-day admin and operations. These conflict. The CV's qualifier is an honesty
+marker and cannot be quietly dropped in favour of an operating title.
 
-**OQ-6 — Baker Tilly specifics.** The baseline CV claims working papers prepared for **3 corporate
-clients** and meeting minutes documented for senior accountants. The interview answer was only
-"brief internship exposure to audit practice". Either the CV detail is accurate and the answer was
-just terse, or the CV is more specific than the underlying experience supports.
+**OQ-6 — "30+ HNW clients".** Still unconfirmed across two rounds.
 
-**OQ-7 — TCI Rent scale and timeline.** Properties or landlords at handover, rent roll or GMV,
-operating-year revenue, and founding/handover dates all remain unknown.
+**OQ-7 — Baker Tilly specifics.** The CV claims working papers for 3 corporate clients and minutes
+documented for senior accountants; the interview said only "brief internship exposure to audit
+practice". Unresolved across two rounds.
 
-**OQ-8 — Web stack proficiency.** T1 establishes that Next.js and Supabase belong in the fact bank.
-Whether they may join the Technical Skills list depends on confirmed proficiency — asked in Round C.
+**OQ-8 — Power-of-sale role.** Legal preparation, sale coordination, or general assistance? Affects
+how strongly M7 — the most differentiating fact in the file — may be stated.
 
----
+**OQ-9 — Degree date.** CV says June 2026; interview says awarded 2 July 2026.
 
-## Round C — pending
+**OQ-10 — Dissertation finding. `INTERVIEW RISK`.** The headline result is not recalled. Needs
+retrieving from the dissertation itself before any research-facing application.
 
-Durham modules and marks, dissertation method and finding, ACS detail, **UK right to work**,
-certifications in progress, honest tool proficiency ratings, languages, target roles and sectors.
+**OQ-11 — Ball superlative.** "Largest in Durham University's history" is unverified. The 600
+attendees and £30k figures are stronger and safer regardless.
+
+**OQ-12 — Next.js / Supabase proficiency.** Unrated, so the stack cannot yet join Technical Skills.
+Its use in a TCI Rent bullet is unaffected.
+
+**OQ-13 — NAIOP grade.** Student Member (CV) vs Member (interview).
+
+**OQ-14 — LSE framing. `POSITIONING`.** How should the September 2026 start be presented given
+willingness to defer?
