@@ -25,21 +25,24 @@ matches.
 
 | Employer | Title | Dates |
 |---|---|---|
-| Meridian Financial Group (Private Real Estate Mortgage Fund) | Credit Risk Analyst | June – Sept 2025; June 2026 – Present |
+| Meridian Financial Group (Private Real Estate Mortgage Fund) | Credit Risk Analyst (Summer Placement) | June – Sept 2025; June 2026 – Present |
 | TCI Rent | Co-Founder (non-operational) | 2025 – 2026 |
 | Coriats HSMA | Compliance Assistant | July – Sept 2024 |
 | Baker Tilly | Accounting Intern | June – July 2022 |
 | African-Caribbean Society, Durham University | President | June 2025 – June 2026 |
 
-The parenthetical qualifiers **"(Private Real Estate Mortgage Fund)"** and **"(non-operational)"**
-stay. The second is a deliberate honesty marker about the nature of the TCI Rent involvement and
-must never be dropped to make the role read as more hands-on.
+All three parenthetical qualifiers — **"(Private Real Estate Mortgage Fund)"**, **"(Summer
+Placement)"**, and **"(non-operational)"** — stay. The latter two are deliberate honesty markers
+confirmed in interview: the Meridian engagement is a placement rather than a permanent post, and the
+TCI Rent stake is passive with operations run by the majority co-founder. Neither may be dropped to
+make a role read as more senior or more hands-on than it was.
 
 ## Education
 
 - London School of Economics and Political Science — MSc Real Estate Economics and Finance,
   commencing Sept 2026
-- Durham University (St. Chad's College) — BSc Finance (Hons), First Class Honours, June 2026
+- Durham University (St. Chad's College) — BSc Finance (Hons), First Class Honours, July 2026
+  (degree awarded 2 July 2026)
 - Dissertation title and mark: *Demand-Pull vs. Cost-Push Inflation and the Dynamic Inflation Beta
   of UK REITs, 2005–2024*, **78%**
 - A.CRE Real Estate Financial Modeling Accelerator

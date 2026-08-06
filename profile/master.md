@@ -445,52 +445,69 @@ framed. See OQ-14.
 
 ---
 
+## Resolved
+
+**R-1 — Employer name.** Confirmed **Meridian Financial Group (Private Real Estate Mortgage Fund)**,
+as per the baseline CV. "Meridian Trust" in the interview headings was shorthand. No change.
+
+**R-2 — Meridian role framing.** Confirmed an **internship / summer placement**. The title carries
+the qualifier **"Credit Risk Analyst (Summer Placement)"**. Dates remain "June – Sept 2025; June 2026
+– Present" — "Present" is literally accurate while he is still in post, and the qualifier now conveys
+the nature of the engagement, so nothing overstates continuity. See OQ-15 if a contracted end date is
+known.
+
+**R-3 — TCI Rent title.** Confirmed **"Co-Founder (non-operational)"**. He built the product; the
+majority co-founder ran operations; the stake is now passive. Do not substitute an operating title.
+
+**R-4 — Superlatives.** Francois has confirmed he can substantiate both the TCI Rent "largest
+platform" claim and the "largest ball in Durham's history" claim. **Both stand**, at his direction,
+after the lack of supporting figures in this file was raised twice. The supporting evidence has not
+yet been supplied — see OQ-16. Treat both as asserted-and-backed rather than unsupported, but expect
+them to be challenged at interview, since superlatives attract exactly that.
+
+**R-5 — Degree date.** Interview is authoritative: degree awarded **2 July 2026**. CV updated from
+June to July 2026.
+
+**R-6 — NAIOP grade.** **Student Member** retained. Membership grades are checkable against a
+register, and Student Member is what both the CV and `immutables.md` record.
+
+**R-7 — Bloomberg.** Recorded as university exposure only. Never listed bare alongside Advanced
+Excel.
+
+---
+
 ## Open questions
 
-`BLOCKING` questions must be cleared before any tailored CV is issued.
-
-**OQ-1 — Employer name. `BLOCKING`.** The interview twice reads **"Meridian Trust"**; the baseline CV
-reads **"Meridian Financial Group (Private Real Estate Mortgage Fund)"**. Employer names are
-immutable and must be exactly right.
-
-**OQ-2 — Meridian role framing. `BLOCKING`.** Round C describes the role as a **"Summer Placement"**.
-The CV shows **"Credit Risk Analyst"** with dates **"June – Sept 2025; June 2026 – Present"**. If the
-current stint is a summer placement ending shortly, "Present" overstates continuity and the omission
-of placement/internship status may mislead. Confirm the actual title on the contract.
+None blocking. The system may issue tailored CVs.
 
 **OQ-3 — Pace figure scope and annualisation.** Does "roughly one deal per day" cover both stints?
 The implied 200–250 deals a year remains unconfirmed and unusable until it is.
 
-**OQ-4 — TCI Rent superlative. `BLOCKING`.** The CV claims the **"largest"** long-term rental
-platform in TCI. Round C confirms **no meaningful scale numbers exist**. Nothing substantiates
-"largest", and "scaled" is equally unsupported. Must be softened.
-
-**OQ-5 — TCI Rent title. `BLOCKING`.** Round C heads the section **"Co-Founder & Managing
-Director"**; the CV says **"Co-Founder (non-operational)"**, and Rounds B and C both state the
-co-founder ran day-to-day admin and operations. These conflict. The CV's qualifier is an honesty
-marker and cannot be quietly dropped in favour of an operating title.
-
-**OQ-6 — "30+ HNW clients".** Still unconfirmed across two rounds.
+**OQ-6 — "30+ HNW clients".** Unconfirmed across all three rounds. Carried from the baseline CV.
 
 **OQ-7 — Baker Tilly specifics.** The CV claims working papers for 3 corporate clients and minutes
 documented for senior accountants; the interview said only "brief internship exposure to audit
-practice". Unresolved across two rounds.
+practice". Unresolved.
 
 **OQ-8 — Power-of-sale role.** Legal preparation, sale coordination, or general assistance? Affects
-how strongly M7 — the most differentiating fact in the file — may be stated.
+how strongly M7 — the most differentiating fact in the file — may be stated. Until answered, keep the
+baseline's "assisted with" framing.
 
-**OQ-9 — Degree date.** CV says June 2026; interview says awarded 2 July 2026.
+**OQ-10 — Dissertation finding. `INTERVIEW RISK`.** The headline result is not recalled. Retrieve it
+from the dissertation before any research- or quant-facing application. A dissertation on a CV
+invites "what did you find?", and having no answer is worse than omitting it.
 
-**OQ-10 — Dissertation finding. `INTERVIEW RISK`.** The headline result is not recalled. Needs
-retrieving from the dissertation itself before any research-facing application.
+**OQ-12 — Next.js / Supabase proficiency.** Unrated, so the stack cannot join Technical Skills. Its
+use in a TCI Rent bullet is unaffected — describing what was built is a statement of fact, not a
+proficiency claim.
 
-**OQ-11 — Ball superlative.** "Largest in Durham University's history" is unverified. The 600
-attendees and £30k figures are stronger and safer regardless.
+**OQ-14 — LSE framing. `POSITIONING`.** The CV tells employers a full-time master's begins within
+weeks, which reads as unavailable for permanent roles — including the ones he would defer for.
+Deferral belongs in a cover note rather than the CV, but education ordering and framing should
+account for it.
 
-**OQ-12 — Next.js / Supabase proficiency.** Unrated, so the stack cannot yet join Technical Skills.
-Its use in a TCI Rent bullet is unaffected.
+**OQ-15 — Placement end date.** If the current stint has a contracted end date, stating it is
+cleaner than "Present".
 
-**OQ-13 — NAIOP grade.** Student Member (CV) vs Member (interview).
-
-**OQ-14 — LSE framing. `POSITIONING`.** How should the September 2026 start be presented given
-willingness to defer?
+**OQ-16 — Superlative evidence.** Per R-4, the backing for both superlatives has not yet been
+recorded. Needed for interview preparation, not for CV issuance.
