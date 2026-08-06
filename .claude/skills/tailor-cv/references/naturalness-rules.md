@@ -98,6 +98,9 @@ The layout is settled and does not move to accommodate a posting:
 - **No additions to Technical Skills.** That list may be *reordered* to lead with what the posting
   cares about. Nothing joins it that isn't already there unless the fact bank contains it *and*
   Francois has confirmed the proficiency.
+- **Typography is fixed.** Any new construct matches the type and spacing scale in `CLAUDE.md`
+  rule 2. Never vary size, weight, or spacing to give a tailored bullet more presence — emphasis is
+  earned by position and content, never by formatting.
 
 ## 6. No title inflation
 

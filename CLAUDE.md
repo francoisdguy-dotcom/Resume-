@@ -36,3 +36,54 @@ baseline" as the pass condition. Final confirmation is always the Overleaf compi
 
 **Current headroom: none.** The baseline measures ~5pt inside a ~794pt page. Anything added must be
 paid for by something removed.
+
+## 2. Uniform typography and spacing
+
+Anything that is the same *kind* of thing is set the same way. Font size, weight, and style are
+determined by what an element **is**, never by how important a particular instance feels. Two
+constructs that look structurally alike must render alike — a reader reads inconsistency as
+carelessness long before they can name what is wrong.
+
+### Type scale
+
+| Element | Setting |
+|---|---|
+| Name | `\LARGE\bfseries` |
+| Contact line | `\small` |
+| Section heading | `\normalsize\bfseries\uppercase` + rule |
+| Entry — employer or institution | `\normalsize\bfseries` |
+| Entry — location | `\small\textit` |
+| Entry — role or qualification | `\normalsize\textit` |
+| Entry — dates | `\small` |
+| Bullet text | `\normalsize` |
+| Standalone supplementary block | `\small`, bold lead-in, `---` separator |
+
+"Standalone supplementary block" means the credential and affiliation paragraphs that close a
+section — currently the A.CRE line and the memberships list. They are the same construct and take
+the same treatment.
+
+### Spacing scale
+
+Every vertical gap comes from this list. Do not introduce new values.
+
+| Gap | Value | Source |
+|---|---|---|
+| Before a section heading | 6pt | `\titlespacing` |
+| After a section heading | 2pt | `\titlespacing` |
+| Between entries | `\vspace{4pt}` | explicit |
+| Between the two lines of an entry | `\\[-2pt]` | `\entry` macro |
+| After an entry block | `\vspace{1pt}` | `\entry` macro |
+| Between bullets | 1pt | `itemsep` |
+| Above and below a bullet list | 1pt | `topsep` |
+
+The first entry after a section heading takes no `\vspace{4pt}` — the heading's 2pt trailing space
+covers it. This is deliberate, not an omission.
+
+### How to keep it uniform
+
+Entries go through the `\entry` macro, which is why they are consistent by construction. Anything
+set by hand is where drift appears, so prefer the macro. When adding a construct that has no macro,
+match an existing one exactly rather than inventing a variant.
+
+Never adjust spacing or type size to solve a length problem — that is rule 1's territory, and the
+answer there is always to cut a bullet.
