@@ -12,7 +12,7 @@ already Francois's own. Nothing is composed toward a posting.
 one or two alternate phrasings that say the same true thing with different emphasis. Tailoring picks
 the phrasing that matches the posting's vocabulary — it does not write new ones from scratch.
 
-**Status.** Round A (Meridian) complete. Rounds B and C pending.
+**Status.** Rounds A and B complete. Round C pending.
 
 ---
 
@@ -183,23 +183,161 @@ posting requiring those is a bucket-C gap and must be reported as such.
 
 ---
 
-## Open questions
+## TCI Rent — Co-Founder (non-operational)
 
-**OQ-1 — Employer name.** Round A was submitted under the heading **"Meridian Trust"**, but the
-baseline CV reads **"Meridian Financial Group (Private Real Estate Mortgage Fund)"**. Employer names
-are immutable and must be exactly right on every application. Needs resolution before any tailored
-CV is issued.
+> The majority co-founder's name was given in interview and is deliberately not recorded here, for
+> the same reasons as the Meridian Managing Director: no tailoring value, and this file is committed
+> to a remote repository.
 
-**OQ-2 — Scope of the pace figure.** Does "roughly one deal per day" describe the current stint,
-the 2025 summer stint, or both? Affects whether the figure can be stated unqualified.
+### T1 — Built the platform
+**Fact.** Co-founded the business and personally built the platform: **Next.js 14** front end,
+**Supabase** back end, deployed on **Netlify**. Shipped to production and used by real landlords and
+tenants.
+**Tags.** engineering, product, proptech, technical, founder
+**Phrasings.**
+- "Built and shipped the platform end to end (Next.js, Supabase, Netlify), taking it from nothing to
+  a live service used by landlords and tenants."
+- "Designed and developed a production property rental platform in Next.js and Supabase."
+- "Built the product myself — full-stack web application backing a live lettings business."
 
-**OQ-3 — Annualised volume.** "~1 deal per day" implies roughly 200–250 opportunities a year. That
-extrapolation is not yet confirmed and is not to be used until it is.
+**Note for tailoring.** The baseline CV says only "building a full-service property management
+offering", which conceals a genuine engineering achievement. A finance candidate who has shipped a
+production web application is unusual, and it independently corroborates the technical skills
+section. Surface this for proptech, fintech, data-oriented, or any small-team role where building
+things matters. Note the contrast with M3: here he **did** build from scratch, and can say so.
+
+### T2 — Ownership and current status
+**Fact.** Holds **49%**; the majority co-founder (51%) ran day-to-day administration. Day-to-day
+operations were handed to a local management team in 2026; Francois retains a passive founder stake
+with no operating responsibilities.
+**Tags.** founder, ownership, governance
+**Note.** The "(non-operational)" qualifier on the CV is an honesty marker and stays — see
+`immutables.md`. He is a minority holder and was not the day-to-day operator; do not write
+"ran", "led operations", or "managed the business".
+
+### T3 — Commercial model
+**Fact.** Fee model is **50% of the first month's rent, paid by the landlord**, with no upfront cost
+to the landlord.
+**Tags.** commercial structure, pricing, business model
+**Phrasings.**
+- "Structured the commercial model — a landlord-paid fee of 50% of first month's rent, removing
+  upfront cost as a barrier to listing."
+- "Set fee architecture and agent commission structure for a two-sided lettings marketplace."
+
+**Note.** The no-upfront-cost design is a deliberate acquisition mechanism, not just a price. That
+reasoning is worth stating for commercially-minded roles.
+
+### T4 — Team
+**Fact.** Beyond the two co-founders, engaged a photographer and an employee handling showings and
+operations.
+**Tags.** hiring, operations, small team
+**Note.** Small. Do not inflate into "built a team" or quote a headcount that implies more.
+
+### T5 — Customer acquisition
+**Fact.** Acquired tenants and landlords through referrals, paid advertising, and content.
+**Tags.** growth, marketing, two-sided marketplace
+**Phrasings.**
+- "Drove two-sided acquisition through referral, paid, and content channels."
+
+### T6 — Incorporation and licensing
+**Fact.** Completed company incorporation and property management licensing. *(Carried from the
+baseline CV; not re-confirmed in interview.)*
+**Tags.** operations, regulatory, founder
 
 ---
 
-## Rounds B and C — pending
+## Coriats HSMA — Compliance Assistant
 
-- **Round B:** TCI Rent, Coriats HSMA, Baker Tilly.
-- **Round C:** Durham modules and dissertation method, ACS detail, UK right to work, certifications
-  in progress, honest tool proficiency, languages, target roles.
+### C1 — Trust and holding company administration
+**Fact.** Administrative work on trusts and holding companies, under trustee instruction.
+**Tags.** trusts, private client, fiduciary, administration
+**Phrasings.**
+- "Supported administration of trust and holding company structures under trustee instruction."
+
+**Note.** "Under trustee instruction" is a scope marker — he executed, he did not advise or exercise
+discretion. Keep that framing; do not write "advised" or "managed structures".
+
+### C2 — Viewpoint
+**Fact.** Used Viewpoint for trust administration; certified in the software.
+**Tags.** systems, trust administration, private client
+**Note.** This is a real named system he genuinely used — one of the few tool claims available, and
+directly relevant to trust and fiduciary postings.
+
+### C3 — AML/KYC and source of funds
+**Fact.** Verified client identification and source-of-funds documentation under the **TCI AML/CFT
+regime**.
+**Tags.** compliance, AML, KYC, source of funds, financial crime, regulatory
+**Phrasings.**
+- "Verified client identity and source-of-funds documentation under the TCI AML/CFT regime."
+- "Carried out KYC and source-of-funds checks as part of client onboarding and file review."
+
+**Note.** Entirely absent from the baseline CV, which mentions only "compliance and cyber security
+training". This is concrete, named, regime-specific regulatory experience and is the strongest
+Coriats fact available. Lead with it for compliance, onboarding, financial crime, private client, or
+any regulated-lender posting. The regime is **TCI**, not UK — do not let a UK posting's vocabulary
+silently convert it into FCA or MLR 2017 experience.
+
+### C4 — Portfolio reporting
+**Fact.** Drafted client-ready reports and assisted trust officers delivering portfolio updates.
+The **$100M+** figure refers to **a single portfolio**, not aggregate client assets.
+**Tags.** reporting, private client, multi-asset
+**Phrasings.**
+- "Drafted client-ready reporting and supported trust officers on portfolio updates, including a
+  \$100M+ multi-asset real estate and investment portfolio."
+
+**Note.** The baseline wording is compatible with this, but any rephrasing must not drift into
+"\$100M+ across clients" or "\$100M+ AUM". One portfolio.
+
+---
+
+## Baker Tilly — Accounting Intern
+
+### B1 — Audit exposure
+**Fact.** Brief internship exposure to audit practice.
+**Tags.** audit, accounting, foundational
+**Note.** Round B added no detail beyond this. See OQ-6 — the baseline CV is considerably more
+specific than the interview answer, and that gap needs resolving. Lowest-value section in the file;
+normally the first thing cut for space.
+
+---
+
+## Open questions
+
+Blocking questions are marked. No tailored CV should be issued while a blocking question is open.
+
+**OQ-1 — Employer name. `BLOCKING`.** Round A was submitted under the heading **"Meridian Trust"**,
+but the baseline CV reads **"Meridian Financial Group (Private Real Estate Mortgage Fund)"**.
+Employer names are immutable and must be exactly right on every application.
+
+**OQ-2 — Scope of the pace figure.** Does "roughly one deal per day" describe the current stint, the
+2025 summer stint, or both? Affects whether the figure can be stated unqualified.
+
+**OQ-3 — Annualised volume.** "~1 deal per day" implies roughly 200–250 opportunities a year. Not
+confirmed; not to be used until it is.
+
+**OQ-4 — "Largest platform" claim. `BLOCKING`.** The baseline CV states TCI Rent was "the Turks and
+Caicos Islands' largest long-term residential rental platform". Round B returned no scale figures —
+no property count, landlord count, rent roll, GMV, or revenue — so nothing in this file substantiates
+"largest". A superlative is the most challengeable line on a CV. Either substantiate it or soften it
+to something defensible.
+
+**OQ-5 — "30+ HNW clients".** The baseline CV claims portfolio data managed for 30+ HNW clients.
+Round B did not confirm this figure.
+
+**OQ-6 — Baker Tilly specifics.** The baseline CV claims working papers prepared for **3 corporate
+clients** and meeting minutes documented for senior accountants. The interview answer was only
+"brief internship exposure to audit practice". Either the CV detail is accurate and the answer was
+just terse, or the CV is more specific than the underlying experience supports.
+
+**OQ-7 — TCI Rent scale and timeline.** Properties or landlords at handover, rent roll or GMV,
+operating-year revenue, and founding/handover dates all remain unknown.
+
+**OQ-8 — Web stack proficiency.** T1 establishes that Next.js and Supabase belong in the fact bank.
+Whether they may join the Technical Skills list depends on confirmed proficiency — asked in Round C.
+
+---
+
+## Round C — pending
+
+Durham modules and marks, dissertation method and finding, ACS detail, **UK right to work**,
+certifications in progress, honest tool proficiency ratings, languages, target roles and sectors.
