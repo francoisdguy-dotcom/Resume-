@@ -87,17 +87,22 @@ Apply `references/naturalness-rules.md` in full. The short form:
   bullet on average.
 - Add no sections, no keyword blocks, no skills that weren't already there.
 
-### 5. Fit check
+### 5. Fit check — one page, always
 
 ```bash
 python3 scripts/fit_check.py applications/<company>-<role>/resume.tex
 ```
 
-Reports estimated fit against the one-page budget, with the baseline as reference. If over, cut the
-weakest-evidence bullet — never shrink margins, font size, or spacing to force a fit. The page
-budget is a feature: it forces selection, and selection is what prevents stuffing.
+**One page is a hard constraint.** A two-page output is a failed output. See `CLAUDE.md` for the
+full rule and the list of prohibited workarounds — in short, fit is bought by **cutting a bullet**,
+never by shrinking font, margins, or spacing.
 
-The estimator is a heuristic, not a renderer. Real confirmation is the Overleaf compile.
+The baseline has no headroom left, so anything promoted from the fact bank must be paid for by
+something removed. That trade is the mechanism working: a fixed page forces selection, and selection
+is what prevents keyword accumulation.
+
+The estimator is a heuristic, not a renderer. Treat "roughly the same length as the baseline" as the
+pass condition; real confirmation is the Overleaf compile.
 
 ### 6. Verify before writing
 
